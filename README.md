@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full-stack developer
-- 🎨 Passion for UI/UX
-- 🌱 Currently learning TypeScript & Next.js
+- 🌱 Currently learning TypeScript & python - django
 
 ## 📊 GitHub Stats
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenpt221&show_icons=true&theme=tokyonight)
