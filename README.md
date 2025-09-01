@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 💻 Full-stack developer
-- 🌱 Currently learning TypeScript & python - django
-\
+- 🌱 Currently learning NextJs & python - django
+
 ## 🛠️ Experience  
 Most of my experience comes from building and maintaining **personal websites and portfolio projects**.  
 - 🌐 Designed and developed multiple **responsive personal websites** using **Next.js, React, and TailwindCSS**.  
