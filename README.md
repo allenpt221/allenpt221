@@ -21,6 +21,6 @@ These projects have helped me **solidify my full-stack fundamentals** and prepar
 ![GitHub Streak](https://streak-stats.demolab.com/?user=allenpt221&theme=tokyonight)
 
 ## 🗂️ Projects
-- [Portfolio](https://github.com/allenpt221/Portfolio)
+- [Portfolio](allenpt.vercel.app)
 - [Another Project](#)
 
