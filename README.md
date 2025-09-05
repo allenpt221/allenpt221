@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Patrick Allen 
 
 ## 🚀 About Me
+I specialize in building dynamic, responsive, and user-friendly web applications. My experience with both PERN and MERN stacks allows me to create scalable back-end architectures while delivering smooth front-end experiences. Using Next.js, I develop performant, SEO-friendly web applications, combining modern frameworks with efficient database management.
+
 - 💻 Full-stack developer
 - 🌱 Currently learning NextJs & python - django
 
