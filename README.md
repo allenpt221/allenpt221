@@ -24,5 +24,5 @@ These projects have helped me **solidify my full-stack fundamentals** and prepar
 
 ## 🗂️ Projects
 - [Portfolio](https://allenpt.vercel.app/)
-- [Another Project](#)
+
 
